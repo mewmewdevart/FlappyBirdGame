@@ -1,0 +1,9 @@
+# Unity generated #
+*.apk
+*.unitypackage
+
+# Visual Studio / MonoDevelop generated #
+.vs/
+
+# OS generated #
+.DS_Store*
